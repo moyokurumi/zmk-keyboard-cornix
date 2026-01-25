@@ -202,7 +202,7 @@
             //               | GUI | ALT  | CTRL | LOWER|  ENTER |  | SPACE | RAISE| CTRL  | ALT   | GUI  |
 
             bindings = <
-&TAB_ESC        &kp Q  &kp W      &kp E         &kp R       &kp T                          &kp Y          &kp U            &kp I       &kp O       &kp P          &none
+&TAB_ESC        &kp Q  &kp W      &kp E         &kp R       &kp T                          &kp Y          &kp U            &kp I       &kp O       &kp P          &kp BACKSPACE
 &kp LCTRL       &kp A  &kp S      &kp D         &kp F       &kp G                          &kp H          &kp J            &kp K       &kp L       &kp MINUS      &none
 &kp LEFT_SHIFT  &kp Z  &kp X      &kp C         &kp V       &kp B            &none  &none  &kp N          &kp M            &comma_exc  &dot_quest  &slash_reader  &kp RIGHT_SHIFT
 &F2F3td         &rec   &kp ENTER  &kp LEFT_ALT  &Bs_LT 3 0  &mt LCTRL SPACE                &Ent_Lt_Lang1  &kp RIGHT_SHIFT  &lt 1 DEL   &none       &none          &kp LEFT_WIN
