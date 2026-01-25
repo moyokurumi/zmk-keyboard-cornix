@@ -172,7 +172,7 @@
         vienna: vienna {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kp N1 &kp N9 &kp N2 &kp DOT &kp N1 &kp N6 &kp N8 &kp DOT &kp N3 &kp DOT &kp N3 &kp N2>;
+            bindings = <&kp LANG2 &kp N1 &kp N9 &kp N2 &kp DOT &kp N1 &kp N6 &kp N8 &kp DOT &kp N3 &kp DOT &kp N3 &kp N2>;
             label = "VIENNA";
             wait-ms = <0>;
             tap-ms = <5>;
