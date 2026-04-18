@@ -152,11 +152,6 @@
             bindings = <&mo 4>;
             key-positions = <5 29>;
         };
-
-        Enter {
-            bindings = <&kp ENTER>;
-            key-positions = <43 42>;
-        };
     };
 
     macros {
