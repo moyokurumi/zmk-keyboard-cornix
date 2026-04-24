@@ -75,7 +75,7 @@
             compatible = "zmk,behavior-tap-dance";
             label = "REC";
             #binding-cells = <0>;
-            bindings = <&kp ASTRK>, <&rerec>;
+            bindings = <&kp KP_ASTERISK>, <&rerec>;
         };
 
         comma_exc: comma_exc {
